@@ -51,3 +51,7 @@ Em seguida, inicie o projeto.
 npm run dev
 ```
 
+## Hospedagem
+A aplicação funcionando encontrasse disponível [aqui](https://event-plataform-liart.vercel.app)
+
+
