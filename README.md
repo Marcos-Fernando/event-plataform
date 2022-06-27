@@ -27,7 +27,7 @@ Rocketseat, como exemplo, o próprio Ignite Lab.
 -   [ ] Date-fns
 -   [ ] ClassNames
 -   [ ] Codegen
--   
+   
 ## :hammer_and_wrench: Features 
 
 -   [ ] O usuário poderá está inserindo seu nome e mail para acessar a plataforma
